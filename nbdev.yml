@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://grey1227.github.io/nbdev_hello_world"
+  description: ""
+  repo-branch: master
+  repo-url: "https://github.com/grey1227/nbdev_hello_world"
