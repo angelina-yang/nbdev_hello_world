@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://grey1227.github.io',
                 'git_url': 'https://github.com/grey1227/nbdev_hello_world',
                 'lib_path': 'nbdev_hello_world'},
-  'syms': {'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
+  'syms': { 'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')},
+            'nbdev_hello_world.coreb': { 'nbdev_hello_world.coreb.foo': ('test.html#foo', 'nbdev_hello_world/coreb.py'),
+                                         'nbdev_hello_world.coreb.say_hello': ('test.html#say_hello', 'nbdev_hello_world/coreb.py')}}}
